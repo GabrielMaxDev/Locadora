@@ -41,8 +41,10 @@ public class ProductTester {
                 System.out.println("Descontinuar Estoque");
                 discontinueInventory(products, in);
             }
-            case 0 -> System.out.println("Saindo do programa...");
-            default -> System.out.println("Opção inválida.");
+            case 0 ->
+                System.out.println("Saindo do programa...");
+            default ->
+                System.out.println("Opção inválida.");
         }
     }
 

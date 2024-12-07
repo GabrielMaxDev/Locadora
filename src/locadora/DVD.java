@@ -1,6 +1,7 @@
 package locadora;
 
 public class DVD extends Product {
+
     // Declarações de campo de instância
     private int length; // Duração do filme em minutos
     private int ageRating; // Classificação etária

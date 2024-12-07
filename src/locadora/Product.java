@@ -1,6 +1,7 @@
 package locadora;
 
 public class Product {
+
     // Declarações de campo de instância
     private int itemNumber; // Valor exclusivo para identificação
     private String name; // Nome do produto

@@ -1,6 +1,7 @@
 package locadora;
 
 public class CD extends Product {
+
     // Declarações de campo de instância
     private String artist;
     private int numberOfSongs;
